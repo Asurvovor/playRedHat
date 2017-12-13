@@ -1,5 +1,3 @@
-记录一些重要命令
-
 man 
 
 yum 
@@ -25,4 +23,3 @@ pidof
 kill
 
 killall
-

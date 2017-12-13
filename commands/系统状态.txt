@@ -1,0 +1,15 @@
+ifconfig
+
+uname
+
+uptime
+
+free
+
+who
+
+last 
+
+history
+
+sosreport
